@@ -1,0 +1,79 @@
+header h1{
+    margin: 0;
+    color: white;
+}
+.button{
+    height: 40px;
+    width: 140px;
+    border: none;
+    border-radius: 10px;
+}
+.button:hover{
+    background-color:darkblue;
+    color: white;
+
+}
+*{
+    font-family: monospace;
+}
+body{
+    margin: 0;
+    font-size: 15px;
+    background-color: lightblue;
+}
+
+header{
+    background-color: blue;
+    height: 100vh;
+    color: white;
+}
+img{
+    height: ;;
+}
+section{
+    height: 120vh;
+    border:1px solid gray ;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+main{
+    padding: 20px;
+}
+h1{
+    color: blue;
+    font-size: 3rem;
+}
+.submit{
+    height: 40px;
+    width: 140px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+.submit:hover{
+    color: white;
+    background-color:blue;
+}
+input{
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    height: 25px;
+}
+footer{
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+.fixed{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    height: 70px;
+    width: 70px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    color: white;
+    background-color: blue;
+}
